@@ -1,7 +1,4 @@
 # Expense Tracker
-
-**Live Website:** [https://main.d1sj7cd70hlter.amplifyapp.com/](https://main.d1sj7cd70hlter.amplifyapp.com/)  
-
 ---
 # 💰 Expense Tracker
 
